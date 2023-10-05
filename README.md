@@ -38,8 +38,7 @@ Ce projet vise à aider les conseillers pédagogiques des établissements scolai
 
     Clonez ce dépôt sur votre machine locale :
 
-
-    git clone https://github.com/votre-utilisateur/votre-projet.git
+    git clone https://github.com/clementdufourDS/Student_App.git
 
 ### Installez les dépendances Python requises :
 
