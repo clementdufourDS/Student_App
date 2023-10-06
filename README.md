@@ -53,7 +53,7 @@ Ce projet vise à aider les conseillers pédagogiques des établissements scolai
 
     Exécutez l'application Streamlit en utilisant la commande suivante :
 
-        streamlit run main.py
+        streamlit run app.py
 
     Ouvrez votre navigateur web et accédez à l'URL indiquée par Streamlit.
 
